@@ -1,6 +1,5 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Kamily-Assis&show_icons=true&title_color=CADDF2&text_color=fdf0d5&icon_color=CADDF2&bg_color=003049&cache_seconds=2300">
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### **Kamily Assis de Oliveira**
 
