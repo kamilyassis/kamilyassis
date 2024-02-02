@@ -3,12 +3,13 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 
-## 👨🏻‍💻 Sobre mim
+## 👨🏻‍💻 About Me
 
-- Cientista em formação explorando novas tecnologias.
-- Cursando Ciência de Dados & IA na UFPB (Universidade Federal da Paraíba).
-- Aprendendo mais sobre Linguagens de Programação e Inteligência Artificial.
-- No tempo livre, eu leio, escrevo e jogo.
+- Data science studant exploring new technologies.
+- Currently pursuing a degree in Ciêcia de Dados & IA at UFPB (Universidade Federal da Paraíba).
+- Delving deeper into Programming Languages and Artificial Intelligence.
+- In my free time, I enjoy reading, writing, and gaming.
+
 
 ## 🛠 Skills
 
@@ -28,14 +29,14 @@
 <br/>
 <br/>
 
-## 📕 Estatísticas
+## 📕 Statistics
 <a href="https://github.com/kamilyassis" title="Perfil Kamily Assis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamilyassis&show_icons=true&title_color=5468FF&text_color=fdf0d5&icon_color=ff6e00&bg_color=0d1117&cache_seconds=2300" />
 </a>
 
 <br/>
 
-## Fique a vontade para entrar em contato comigo <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="center"/>
+## Feel free to contact me through other channels <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="center"/>
 
 ![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamily-assis/)
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.kamilyassis@gmail.com)
