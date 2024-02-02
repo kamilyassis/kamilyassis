@@ -30,7 +30,7 @@
 
 ## 📕 Estatísticas
 <a href="https://github.com/kamilyassis" title="Perfil Kamily Assis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kamily-Assis&show_icons=true&title_color=CADDF2&text_color=fdf0d5&icon_color=CADDF2&bg_color=003049&cache_seconds=2300" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamilyassis&show_icons=true&title_color=5468FF&text_color=fdf0d5&icon_color=ff6e00&bg_color=0d1117&cache_seconds=2300" />
 </a>
 
 <br/>
